@@ -67,6 +67,10 @@ Execute the program using runserver command.
             .jolt{
                 margin:auto;
             }
+            .tab{
+                border-collapse: collapse;
+                border:solid black 5px;
+            }
         </style>
     </head>
     <body bgcolor="aqua">
@@ -116,11 +120,17 @@ Execute the program using runserver command.
                 <td colspan="2">PUBLIC SPEAKING</td>
             </tr>
         </table>
+        <table class="tab">
+            <tr><th>SUBJECT CODE</th><th>SUBJECT</th></tr>
+            <tr><td>19AI304</td><td>FUNDAMENTALS OF C PROGRAMMING</td></tr>
+            <tr><td>19AI414</td><td>FUNDAMENTALS OF WEB DEVELOPMENT</td></tr>
+            <tr><td>19EN105</td><td>PUBLIC SPEAKING</td></tr> 
+        </table>
     </body>
 </html>
 ```
 # OUTPUT
-![alt text](<table.html - Google Chrome 29-09-2025 18_42_35.png>)
+
 ![alt text](<views.py - ex03 - Visual Studio Code 29-09-2025 18_44_03.png>)
 ![alt text](<Downloads - File Explorer 29-09-2025 18_43_50.png>)
 
