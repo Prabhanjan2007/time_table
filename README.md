@@ -130,7 +130,7 @@ Execute the program using runserver command.
 </html>
 ```
 # OUTPUT
-
+![alt text](<127.0.0.1_8000 and 1 more page - Personal - Microsoft​ Edge 01-10-2025 09_51_32.png>)
 ![alt text](<views.py - ex03 - Visual Studio Code 29-09-2025 18_44_03.png>)
 ![alt text](<Downloads - File Explorer 29-09-2025 18_43_50.png>)
 
